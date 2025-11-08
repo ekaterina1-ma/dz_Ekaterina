@@ -20,7 +20,7 @@ from_addr = Address(
 shipment = Mailing(
     to_address=to_addr,
     from_address=from_addr,
-    cost=1000,
+    cost=1001,
     track='AB123456789RU'
 )
 
